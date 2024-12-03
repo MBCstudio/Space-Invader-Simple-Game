@@ -30,3 +30,8 @@ A simple implementation of the classic arcade game **Space Invaders**, built in 
    ```bash
    git clone <repository_url>
    cd <repository_directory>
+
+
+---
+
+This ensures that anyone using your code is aware of the need to update image paths. Let me know if there's anything else you'd like to add!
